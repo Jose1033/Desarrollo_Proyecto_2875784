@@ -35,6 +35,7 @@
         <a href="#">Productos</a>
         <a href="#">Ofertas</a>
         <a href="#">Contacto</a>
+        <a href="proveedores.html">Proveedores</a>
         <div class="category-title">Novedades</div>
         <a href="#">Colombiamoda <span class="new-label">Exclusivo</span></a>
         <a href="#">Precio insuperable <span class="new-label">Nuevo</span></a>
