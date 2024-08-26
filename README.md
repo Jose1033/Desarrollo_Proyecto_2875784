@@ -1,4 +1,4 @@
 para 12/08/2024:
-- Desarrollo se FrontEnd
+- Corrección de Errores
 - Validaciones
 - Testeo
